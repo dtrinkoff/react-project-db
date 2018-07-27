@@ -6,7 +6,7 @@
 		"password": "9hcvVPO",
 		"role": [
 			"admin",
-			"user"
+			"employee"
 		]
 	},
 	{
@@ -15,7 +15,7 @@
 		"email": "mcolby1@timesonline.co.uk",
 		"password": "srtXgTq",
 		"role": [
-			"user"
+			"employee"
 		]
 	},
 	{
@@ -34,7 +34,7 @@
 		"password": "vG70Ci",
 		"role": [
 			"admin",
-			"user"
+			"employee"
 		]
 	},
 	{
@@ -43,7 +43,7 @@
 		"email": "cscarborough4@symantec.com",
 		"password": "gZwRGqAuzo",
 		"role": [
-			"user"
+			"employee"
 		]
 	},
 	{
@@ -62,7 +62,7 @@
 		"password": "srcV9jXYwMyU",
 		"role": [
 			"admin",
-			"user"
+			"employee"
 		]
 	},
 	{
@@ -72,7 +72,7 @@
 		"password": "sXGqlxH4wZ",
 		"role": [
 			"admin",
-			"user"
+			"employee"
 		]
 	},
 	{
@@ -90,7 +90,7 @@
 		"email": "eschulke9@archive.org",
 		"password": "hKIsn5y",
 		"role": [
-			"user"
+			"employee"
 		]
 	}
 ]
