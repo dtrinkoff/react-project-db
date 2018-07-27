@@ -1,0 +1,96 @@
+[
+	{
+		"first_name": "Ninon",
+		"last_name": "Face",
+		"email": "nface0@dyndns.org",
+		"password": "9hcvVPO",
+		"role": [
+			"admin",
+			"user"
+		]
+	},
+	{
+		"first_name": "Maurise",
+		"last_name": "Colby",
+		"email": "mcolby1@timesonline.co.uk",
+		"password": "srtXgTq",
+		"role": [
+			"user"
+		]
+	},
+	{
+		"first_name": "Kendra",
+		"last_name": "Crasswell",
+		"email": "kcrasswell2@usnews.com",
+		"password": "Vhefbjd",
+		"role": [
+			"admin"
+		]
+	},
+	{
+		"first_name": "Hillyer",
+		"last_name": "Crenage",
+		"email": "hcrenage3@jugem.jp",
+		"password": "vG70Ci",
+		"role": [
+			"admin",
+			"user"
+		]
+	},
+	{
+		"first_name": "Cornell",
+		"last_name": "Scarborough",
+		"email": "cscarborough4@symantec.com",
+		"password": "gZwRGqAuzo",
+		"role": [
+			"user"
+		]
+	},
+	{
+		"first_name": "Georgine",
+		"last_name": "Dodshon",
+		"email": "gdodshon5@godaddy.com",
+		"password": "1uTrd66qeeV",
+		"role": [
+			"admin"
+		]
+	},
+	{
+		"first_name": "Gypsy",
+		"last_name": "Bullar",
+		"email": "gbullar6@narod.ru",
+		"password": "srcV9jXYwMyU",
+		"role": [
+			"admin",
+			"user"
+		]
+	},
+	{
+		"first_name": "Elwin",
+		"last_name": "Innerstone",
+		"email": "einnerstone7@phoca.cz",
+		"password": "sXGqlxH4wZ",
+		"role": [
+			"admin",
+			"user"
+		]
+	},
+	{
+		"first_name": "Anthony",
+		"last_name": "Aleksich",
+		"email": "aaleksich8@va.gov",
+		"password": "z6UMPXC2qNFE",
+		"role": [
+			"admin"
+		]
+	},
+	{
+		"first_name": "Elene",
+		"last_name": "Schulke",
+		"email": "eschulke9@archive.org",
+		"password": "hKIsn5y",
+		"role": [
+			"user"
+		]
+	}
+]

@@ -1,0 +1,112 @@
+[
+	{
+		"first_name": "Alica",
+		"last_name": "Stapels",
+		"email": "astapels0@google.ru",
+		"street_address": "130 Johnson Hill",
+		"city": "Flushing",
+		"state": "New York",
+		"zip_code": 11388,
+		"phone_number": "718-598-7656",
+		"password": "VDPswAix7o"
+	},
+	{
+		"first_name": "Cirilo",
+		"last_name": "D'Aulby",
+		"email": "cdaulby1@wufoo.com",
+		"street_address": "61771 Pearson Alley",
+		"city": "North Hollywood",
+		"state": "California",
+		"zip_code": 91616,
+		"phone_number": "213-957-0418",
+		"password": "HBqZDa"
+	},
+	{
+		"first_name": "Henriette",
+		"last_name": "Gregoraci",
+		"email": "hgregoraci2@rediff.com",
+		"street_address": "01 Fairfield Drive",
+		"city": "Honolulu",
+		"state": "Hawaii",
+		"zip_code": 96850,
+		"phone_number": "808-872-4478",
+		"password": "JHpyBWzVox"
+	},
+	{
+		"first_name": "Leonanie",
+		"last_name": "Foyston",
+		"email": "lfoyston3@answers.com",
+		"street_address": "6 Packers Point",
+		"city": "El Paso",
+		"state": "Texas",
+		"zip_code": 88558,
+		"phone_number": "915-686-0835",
+		"password": "8I6vgh"
+	},
+	{
+		"first_name": "Elwira",
+		"last_name": "Heugle",
+		"email": "eheugle4@sakura.ne.jp",
+		"street_address": "1097 Dottie Terrace",
+		"city": "Knoxville",
+		"state": "Tennessee",
+		"zip_code": 37924,
+		"phone_number": "865-913-4619",
+		"password": "2EnLuX6UGk6l"
+	},
+	{
+		"first_name": "Keri",
+		"last_name": "Spira",
+		"email": "kspira5@cdbaby.com",
+		"street_address": "2473 Namekagon Avenue",
+		"city": "White Plains",
+		"state": "New York",
+		"zip_code": 10633,
+		"phone_number": "914-327-8501",
+		"password": "ZlgoIIDu"
+	},
+	{
+		"first_name": "Lucienne",
+		"last_name": "Downham",
+		"email": "ldownham6@goo.ne.jp",
+		"street_address": "11 Lindbergh Road",
+		"city": "Temple",
+		"state": "Texas",
+		"zip_code": 76505,
+		"phone_number": "254-901-8751",
+		"password": "jhz4kF"
+	},
+	{
+		"first_name": "Tessie",
+		"last_name": "Schwanden",
+		"email": "tschwanden7@china.com.cn",
+		"street_address": "6737 Forster Center",
+		"city": "Bakersfield",
+		"state": "California",
+		"zip_code": 93305,
+		"phone_number": "805-179-1713",
+		"password": "XY4AUtqyF"
+	},
+	{
+		"first_name": "Halsy",
+		"last_name": "Sturgess",
+		"email": "hsturgess8@apple.com",
+		"street_address": "4297 Fallview Place",
+		"city": "Arlington",
+		"state": "Virginia",
+		"zip_code": "22212",
+		"phone_number": "571-658-7263",
+		"password": "ABu5hfYBDsSk"
+	},
+	{
+		"first_name": "Marissa",
+		"last_name": "Lambart",
+		"email": "mlambart9@youtube.com",
+		"street_address": "58767 Boyd Junction",
+		"city": "Torrance",
+		"state": "California",
+		"zip_code": "90505",
+		"phone_number": "310-440-9747",
+		"password": "djtL9H"
+	}
+]

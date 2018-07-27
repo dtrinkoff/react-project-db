@@ -1,0 +1,112 @@
+[
+	{
+		"customerId": {
+			"$oid": "5b5b3a8efc13ae52fc000000"
+		},
+		"date": ISODate("2018-01-01T15:51:14.746Z"),
+		"itemId": {
+			"$oid": "5b5b4433fc13ae0438000000"
+		},
+		"itemQuantity": 3,
+		"purchase_total": "$208.56"
+	},
+	{
+		"customerId": {
+			"$oid": "5b5b3a8efc13ae52fc000001"
+		},
+		"date": ISODate("2018-03-01T15:51:14.746Z"),
+		"itemId": {
+			"$oid": "5b5b4433fc13ae0438000001"
+		},
+		"itemQuantity": 6,
+		"purchase_total": "$39.16"
+	},
+	{
+		"customerId": {
+			"$oid": "5b5b3a8efc13ae52fc000002"
+		},
+		"date": ISODate("2018-04-07T15:51:14.746Z"),
+		"itemId": {
+			"$oid": "5b5b4433fc13ae0438000002"
+		},
+		"itemQuantity": 1,
+		"purchase_total": "$221.20"
+	},
+	{
+		"customerId": {
+			"$oid": "5b5b3a8efc13ae52fc000003"
+		},
+		"date": ISODate("2018-04-28T15:51:14.746Z"),
+		"itemId": {
+			"$oid": "5b5b4433fc13ae0438000003"
+		},
+		"itemQuantity": 10,
+		"purchase_total": "$178.83"
+	},
+	{
+		"customerId": {
+			"$oid": "5b5b3a8efc13ae52fc000004"
+		},
+		"date": ISODate("2018-07-01T15:51:14.746Z"),
+		"itemId": {
+			"$oid": "5b5b4433fc13ae0438000004"
+		},
+		"itemQuantity": 4,
+		"purchase_total": "$199.24"
+	},
+	{
+		"customerId": {
+			"$oid": "5b5b3a8efc13ae52fc000005"
+		},
+		"date": ISODate("2018-06-02T15:51:14.746Z"),
+		"itemId": {
+			"$oid": "5b5b4433fc13ae0438000005"
+		},
+		"itemQuantity": 7,
+		"purchase_total": "$360.75"
+	},
+	{
+		"customerId": {
+			"$oid": "5b5b3a8efc13ae52fc000006"
+		},
+		"date": ISODate("2018-05-012T15:51:14.746Z"),
+		"itemId": {
+			"$oid": "5b5b4433fc13ae0438000006"
+		},
+		"itemQuantity": 9,
+		"purchase_total": "$300.18"
+	},
+	{
+		"customerId": {
+			"$oid": "5b5b3a8efc13ae52fc000007"
+		},
+		"date": ISODate("2018-04-017T15:51:14.746Z"),
+		"itemId": {
+			"$oid": "5b5b4433fc13ae0438000007"
+		},
+		"itemQuantity": "8",
+		"purchase_total": "$215.82"
+	},
+	{
+		"customerId": {
+			"$oid": "5b5b3a8efc13ae52fc000008"
+		},
+		"date": ISODate("2018-02-21T15:51:14.746Z"),
+		"itemId": {
+			"$oid": "5b5b4433fc13ae0438000008"
+		},
+		"itemQuantity": 2,
+		"purchase_total": "$385.80"
+	},
+	{
+		"customerId": {
+			"$oid": "5b5b3a8efc13ae52fc000009"
+		},
+		"date": ISODate("2018-07-27T15:51:14.746Z"),
+		"itemId": {
+			"$oid": "5b5b4433fc13ae0438000009"
+		},
+		"itemQuantity": 5,
+		"purchase_total": "$98.82"
+	}
+]
